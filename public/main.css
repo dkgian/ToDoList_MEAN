@@ -1,0 +1,28 @@
+html{
+    overflow-y:scroll; 
+}
+
+body{
+    background: gray;
+    font-family:Verdana;
+    font-size: 20px;
+    padding-top:50px; 
+}
+
+#todo-list{ 
+    margin-bottom:30px; 
+}
+
+#todolist{
+    padding: auto auto;
+}
+
+.btn-primary{
+    margin-top: 10px;
+}
+
+table{
+    background: white;
+    float: left;
+    margin: 0 auto;
+}
